@@ -19,3 +19,21 @@ You might find the following links useful:
 - https://www.anaconda.com/
 - https://www.python.org/downloads/
 - https://www.sublimetext.com/
+
+# U2: Your First Python Session
+This video walks you through your first session in Python. We will use the Jupyter Notebook and the Spyder IDE. After installing Anaconda (see the first video of the playlist), you have access to Jupyter and Spyder. At the end of the video, we will discuss which IDE might be the best for work in Data Science. We cover assignments, the print and type function. We explain what "dynamically typed" means. At the end of the video, you will be able to start working in the Jupyter Notebook or Spyder.
+## [YouTube Video 2: 23/03/2022 at 10am](https://youtu.be/NASEkloupO0) 
+
+**Chapters**
+- 0:00 First Session in Python
+- 0:24 Starting Jupyter Notebook
+- - 0:55 Instruct the Machine
+- 1:12 Assignment
+- 2:02 Print Function
+- 2:32 Type Function
+- 2:54 Dynamically Typed
+- 3.23 Reassignment
+- 5:11 First Error Message
+- 6:02 Starting Spyder
+- 7:36 Variable Explorer
+- 8:26 Best IDE for Data Science?
