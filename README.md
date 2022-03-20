@@ -27,7 +27,7 @@ This video walks you through your first session in Python. We will use the Jupyt
 **Chapters**
 - 0:00 First Session in Python
 - 0:24 Starting Jupyter Notebook
-- - 0:55 Instruct the Machine
+- 0:55 Instruct the Machine
 - 1:12 Assignment
 - 2:02 Print Function
 - 2:32 Type Function
