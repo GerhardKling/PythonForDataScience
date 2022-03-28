@@ -4,7 +4,7 @@ The repository provides all the material for my YouTube course "Python For Data 
 
 # U1: Installing Python for Data Science
 This video explains how to install Python for applications in Data Science. Anaconda is usually the favourite installation as it offers Python and R as well as several integrated development environments (IDEs). We also discuss alternative IDEs and text editors such as Sublime Text.
-## [YouTube Video 1:](https://youtu.be/rxS_dnkQejY) 
+## [YouTube Video 1](https://youtu.be/rxS_dnkQejY) 
 
 **Chapters**
 - 0:00 How to get started?
@@ -22,7 +22,7 @@ You might find the following links useful:
 
 # U2: Your First Python Session
 This video walks you through your first session in Python. We will use the Jupyter Notebook and the Spyder IDE. After installing Anaconda (see the first video of the playlist), you have access to Jupyter and Spyder. At the end of the video, we will discuss which IDE might be the best for work in Data Science. We cover assignments, the print and type function. We explain what "dynamically typed" means. At the end of the video, you will be able to start working in the Jupyter Notebook or Spyder.
-## [YouTube Video 2: 23/03/2022 at 10am](https://youtu.be/NASEkloupO0) 
+## [YouTube Video 2](https://youtu.be/NASEkloupO0) 
 
 **Chapters**
 - 0:00 First Session in Python
@@ -37,3 +37,16 @@ This video walks you through your first session in Python. We will use the Jupyt
 - 6:02 Starting Spyder
 - 7:36 Variable Explorer
 - 8:26 Best IDE for Data Science?
+
+# U3: Introduction to Booleans in Python
+Are you telling the truth? In this video, we introduce Booleans. I show you how to assert relationships and assign Booleans. We cover logic (and, or, not) and the bool function. 
+## [YouTube Video 3: 30/03/2022 at 10am](https://youtu.be/GqLs88gOPe8) 
+
+**Chapters**
+- 0:00 Booleans
+- 0:17 Assert Relationships
+- 2:04 Assign Booleans
+- 3:08 And, Or, Not
+- 5:26 Bool Function
+
+
