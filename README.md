@@ -40,7 +40,7 @@ This video walks you through your first session in Python. We will use the Jupyt
 
 # U3: Introduction to Booleans in Python
 Are you telling the truth? In this video, we introduce Booleans. I show you how to assert relationships and assign Booleans. We cover logic (and, or, not) and the bool function. 
-## [YouTube Video 3: 30/03/2022 at 10am](https://youtu.be/GqLs88gOPe8) 
+## [YouTube Video 3](https://youtu.be/GqLs88gOPe8) 
 
 **Chapters**
 - 0:00 Booleans
@@ -49,4 +49,18 @@ Are you telling the truth? In this video, we introduce Booleans. I show you how 
 - 3:08 And, Or, Not
 - 5:26 Bool Function
 
+# U4: Lists in Python
+This video introduces lists. We start with an empty list and add items using the append method. The len function is discussed. Then we explore indexing, the pop method, and slicing. Finally, we briefly discuss shallow copies of lists and the reverse method.
+## [YouTube Video 4: 06/04/2022 at 10am](https://youtu.be/1Pb1S0Vvi2g) 
 
+**Chapters**
+- 0:00 Lists in Python
+- 0:39 Empty List
+- 1:35 Append Method
+- 3:10 Len Function
+- 3:41 Indexing
+- 5:38 Pop Method
+- 6:34 Slicing
+- 7:41 Shallow Copy
+- 8:28 Reverse Method
+- 9:39 In or Not In
