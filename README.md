@@ -51,7 +51,7 @@ Are you telling the truth? In this video, we introduce Booleans. I show you how 
 
 # U4: Lists in Python
 This video introduces lists. We start with an empty list and add items using the append method. The len function is discussed. Then we explore indexing, the pop method, and slicing. Finally, we briefly discuss shallow copies of lists and the reverse method.
-## [YouTube Video 4: 06/04/2022 at 10am](https://youtu.be/1Pb1S0Vvi2g) 
+## [YouTube Video 4](https://youtu.be/1Pb1S0Vvi2g) 
 
 **Chapters**
 - 0:00 Lists in Python
@@ -64,3 +64,24 @@ This video introduces lists. We start with an empty list and add items using the
 - 7:41 Shallow Copy
 - 8:28 Reverse Method
 - 9:39 In or Not In
+
+# U5: Tuples & Sets in Python
+This video introduces tuples and sets in Python. We start with empty tuples or sets and demonstrate the use of the plus operator (tuples) and the add method (set). The differences between tuples, sets and lists are made clear, exploring indexing, slicing, and the meaning of order. We see the unpacking of tuples in action, which is useful in many applications. Finally, we discuss the pros and cons of different "containers" for data in the context of data science.
+
+## [YouTube Video 5: 13/04/2022 at 10am](https://youtu.be/aKqf23tNfP0) 
+
+**Chapters**
+- 0:00 Tuples & Sets
+- 0:20 Empty Tuple
+- 0:48 Adding Items to Tuple
+- 2:23 Indexing
+- 3:05 Slicing
+- 3:43 Mutability
+- 4:07 Why use Tuples?
+- 4:48 Unpacking
+- 5:57 Empty Set
+- 6:28 Adding Items to Set
+- 7:37 In and Not In
+- 8:11 No Order
+- 8:40 Data Science Application
+
