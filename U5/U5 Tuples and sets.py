@@ -1,5 +1,5 @@
 """
-R6 Tuples & Sets 
+U5 Tuples & Sets 
 @author: Gerhard Kling
 """
 
