@@ -67,8 +67,7 @@ This video introduces lists. We start with an empty list and add items using the
 
 # U5: Tuples & Sets in Python
 This video introduces tuples and sets in Python. We start with empty tuples or sets and demonstrate the use of the plus operator (tuples) and the add method (set). The differences between tuples, sets and lists are made clear, exploring indexing, slicing, and the meaning of order. We see the unpacking of tuples in action, which is useful in many applications. Finally, we discuss the pros and cons of different "containers" for data in the context of data science.
-
-## [YouTube Video 5: 13/04/2022 at 10am](https://youtu.be/aKqf23tNfP0) 
+## [YouTube Video 5](https://youtu.be/aKqf23tNfP0) 
 
 **Chapters**
 - 0:00 Tuples & Sets
@@ -84,4 +83,19 @@ This video introduces tuples and sets in Python. We start with empty tuples or s
 - 7:37 In and Not In
 - 8:11 No Order
 - 8:40 Data Science Application
+
+# U6: Dictionaries
+This video introduces dictionaries in Python. We explain how dictionaries can be used to store and extract values based on their keys. The update method permits adding new key-value pairs or updating values. The list function converts a dictionary into a list of its keys. Finally, we discuss the dict() constructor to build dictionaries from other data structures.
+## [YouTube Video 6](https://youtu.be/vC9cY2MUGRI) 
+
+**Chapters**
+- 0:00 Dictionaries
+- 0:38 Key: Value Pairs
+- 1:50 Extracting Values
+- 2:33 Update Method
+- 3:39 List Function
+- 5:04 Dict() Constructor
+
+
+
 
