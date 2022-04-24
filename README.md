@@ -84,7 +84,7 @@ This video introduces tuples and sets in Python. We start with empty tuples or s
 - 8:11 No Order
 - 8:40 Data Science Application
 
-# U6: Dictionaries
+# U6: Dictionaries in Python
 This video introduces dictionaries in Python. We explain how dictionaries can be used to store and extract values based on their keys. The update method permits adding new key-value pairs or updating values. The list function converts a dictionary into a list of its keys. Finally, we discuss the dict() constructor to build dictionaries from other data structures.
 ## [YouTube Video 6](https://youtu.be/vC9cY2MUGRI) 
 
@@ -96,6 +96,16 @@ This video introduces dictionaries in Python. We explain how dictionaries can be
 - 3:39 List Function
 - 5:04 Dict() Constructor
 
+# U7: For & While Loops in Python
+This video introduces for and while loops in Python. We start with for loops using range. Then we loop over iterable objects such as lists. Finally, we use while loops to construct Fibonacci numbers. While you watch this video, be careful not to enter an infinite loop as you might never escape!
+## [YouTube Video 7: 27/04/2022 at 10am GMT](https://youtu.be/LJ_YU1EM2MQ) 
+
+**Chapters**
+- 0:00 Loops
+- 0:27 For Loops Using Range
+- 2:15 Iterable Objects
+- 4:03 While Loop
+- 8:59 Infinite loops
 
 
 
