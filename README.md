@@ -98,7 +98,7 @@ This video introduces dictionaries in Python. We explain how dictionaries can be
 
 # U7: For & While Loops in Python
 This video introduces for and while loops in Python. We start with for loops using range. Then we loop over iterable objects such as lists. Finally, we use while loops to construct Fibonacci numbers. While you watch this video, be careful not to enter an infinite loop as you might never escape!
-## [YouTube Video 7: 27/04/2022 at 10am GMT](https://youtu.be/LJ_YU1EM2MQ) 
+## [YouTube Video 7](https://youtu.be/LJ_YU1EM2MQ) 
 
 **Chapters**
 - 0:00 Loops
@@ -107,5 +107,16 @@ This video introduces for and while loops in Python. We start with for loops usi
 - 4:03 While Loop
 - 8:59 Infinite loops
 
+# U8: Branching in Python: if - elif -else
+This video introduces if - elif - else statements in Python, which are used in branching statements. We start with if statements and check the behaviour of our code after adding additional if statements and an else statement. Finally, we play around with else-if (elif) statement. If you are not confused by the end of this video, you are a real Pythonian! 
+## [YouTube Video 8: 04/05/2022 at 10am GMT](https://youtu.be/HvmSW3GoUbc) 
+
+
+**Chapters**
+- 0:00 Branching
+- 0:23 If Statement
+- 1:37 Else Statement
+- 2:28 Combining If Statements
+- 3:37 Elif Statement
 
 
