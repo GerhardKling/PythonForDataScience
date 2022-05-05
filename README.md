@@ -109,7 +109,7 @@ This video introduces for and while loops in Python. We start with for loops usi
 
 # U8: Branching in Python: if - elif -else
 This video introduces if - elif - else statements in Python, which are used in branching statements. We start with if statements and check the behaviour of our code after adding additional if statements and an else statement. Finally, we play around with else-if (elif) statement. If you are not confused by the end of this video, you are a real Pythonian! 
-## [YouTube Video 8: 04/05/2022 at 10am GMT](https://youtu.be/HvmSW3GoUbc) 
+## [YouTube Video 8](https://youtu.be/HvmSW3GoUbc) 
 
 
 **Chapters**
@@ -119,4 +119,18 @@ This video introduces if - elif - else statements in Python, which are used in b
 - 2:28 Combining If Statements
 - 3:37 Elif Statement
 
+# U9: First Python Project: User Input, Loops, and List Comprehension
+Welcome to your first project in Python. Your coding challenge is to develop a Python code that takes the name of a customer using the terminal, adds food items to the order, and displays the total price to be paid. This is 20 minutes of fun using the input function, for loops over lists, a while loop, and list comprehension. 
+## [YouTube Video 9: 11/05/2022 at 10am GMT](https://youtu.be/SmMY0sb1oeQ) 
+
+**Chapters**
+- 0:00 The Takeaway Challenge
+- 0:27 Problem Statement
+- 2:05 Storing Data
+- 3:37 Input Function
+- 5:05 Building Lists
+- 5:34 For Loop over List
+- 7:22 Branching
+- 13:00 While Loop
+- 16:54 List Comprehension
 
