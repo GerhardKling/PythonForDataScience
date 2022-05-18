@@ -121,7 +121,7 @@ This video introduces if - elif - else statements in Python, which are used in b
 
 # U9: First Python Project: User Input, Loops, and List Comprehension
 Welcome to your first project in Python. Your coding challenge is to develop a Python code that takes the name of a customer using the terminal, adds food items to the order, and displays the total price to be paid. This is 20 minutes of fun using the input function, for loops over lists, a while loop, and list comprehension. 
-## [YouTube Video 9: 11/05/2022 at 10am GMT](https://youtu.be/SmMY0sb1oeQ) 
+## [YouTube Video 9](https://youtu.be/SmMY0sb1oeQ) 
 
 **Chapters**
 - 0:00 The Takeaway Challenge
@@ -133,4 +133,21 @@ Welcome to your first project in Python. Your coding challenge is to develop a P
 - 7:22 Branching
 - 13:00 While Loop
 - 16:54 List Comprehension
+
+# U10: Functions in Python: Scope, Arguments & Return
+This video introduces functions in Python. We start by defining a function. Then we explore the scope of variables and demonstrate how to call functions. Arguments are introduced. Functions might return an object. The coding challenge includes exception handling and fun with while loops.
+## [YouTube Video 10](https://youtu.be/gW2SGQvQkkk) 
+
+**Chapters**
+- 0:00 Introduction to Functions
+- 0:53 Defining Functions
+- 1:31 Calling Functions
+- 1:57 Scope
+- 2:25 Arguments
+- 4:27 Return
+- 5:23 Coding Challenge
+- 7:38 Exception Handling
+- 11:24 Build Small
+- 17:21 Return Tuple
+
 
