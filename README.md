@@ -150,4 +150,17 @@ This video introduces functions in Python. We start by defining a function. Then
 - 11:24 Build Small
 - 17:21 Return Tuple
 
+# U11: An Introduction to Object-Oriented Programming in Python
+This video introduces Object-Oriented Programming (OOP) in Python. We explain the basic principles by building a staff management system. Our first class is the Staff class. Attributes are introduced to store information on instances of a class. Magic methods (or Dunder methods “Double Under Underscores”) are used to initialize an instance and to modify string representations. Finally, I show you how to use modules to organise your code in a more efficient manner. Many Data Scientists do not know much about OOP, which is a mistake in my view. 
+## [YouTube Video 11](https://youtu.be/2HNhLj7pyW4) 
+
+**Chapters**
+- 0:00 Introduction to OOP 
+- 0:21 Design Staff Management System 
+- 1:02 Your First Class 
+- 2:09 Attributes 
+- 2:35 Magic Methods 
+- 4:39 Modules 
+- 7:46 Methods 
+- 10:39 The __repr__ Method
 
