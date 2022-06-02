@@ -164,3 +164,32 @@ This video introduces Object-Oriented Programming (OOP) in Python. We explain th
 - 7:46 Methods 
 - 10:39 The __repr__ Method
 
+# U12: An Introduction to NumPy: Make Python Faster
+This video introduces NumPy, which is an essential package in Python used for scientific computing. If you want to get into Data Science, NumPy is impossible to ignore. It offers efficient data structures: NumPy arrays, which we discuss in detail. Vectorization is a process to replace loops with array operations, which makes your code a lot faster. This video also covers NumPy functions, matrix multiplication, merging data, and the ravel vs flatten debate.
+## [YouTube Video 12](https://youtu.be/UqwhBT8nnZM) 
+
+**Chapters**
+- 0:00 Introduction to NumPy
+- 0:56 NumPy Functions
+- 1:49 NumPy Array
+- 5:56 Matrix Multiplication
+- 9:12 Descriptive Statistics
+- 9:42 The arange and linspace Functions
+- 10:48 Merging Data
+- 12:24 The ravel vs flatten Debate
+
+# U13: Win at Roulette using Python and NumPy
+This video explores random number generation in NumPy (random). We develop a Python code to implement a betting strategy used in Roulette. Betting focuses on 50:50 bets (not quite 50:50 as the casino wins at 0). You double your bet after every loss and reduce your bet to the initial bet after every win. In theory, you should be able to recover losses. These strategies are called the Martingale strategy (or reverse martingale strategy). Can these strategies work? How much money do you need to survive the downside risk (tail risk)? In this process, we also have our first exposure to visualisation using Matplotlib.pyplot. Let's start the game!
+## [YouTube Video 13 available from 08/06/2022 at 10am GMT](https://youtu.be/rWI5sEpNNkw) 
+
+**Chapters**
+- 0:00 NumPy Random
+- 1:02 Python Code for Betting
+- 1:48 Random Numbers
+- 2:32 Branching
+- 3:49 While Loop
+- 6:27 Visualisation
+- 6:54 Betting Function
+- 7:39 IndexError
+
+
