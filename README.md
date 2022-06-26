@@ -180,7 +180,7 @@ This video introduces NumPy, which is an essential package in Python used for sc
 
 # U13: Win at Roulette using Python and NumPy
 This video explores random number generation in NumPy (random). We develop a Python code to implement a betting strategy used in Roulette. Betting focuses on 50:50 bets (not quite 50:50 as the casino wins at 0). You double your bet after every loss and reduce your bet to the initial bet after every win. In theory, you should be able to recover losses. These strategies are called the Martingale strategy (or reverse martingale strategy). Can these strategies work? How much money do you need to survive the downside risk (tail risk)? In this process, we also have our first exposure to visualisation using Matplotlib.pyplot. Let's start the game!
-## [YouTube Video 13 available from 08/06/2022 at 10am GMT](https://youtu.be/rWI5sEpNNkw) 
+## [YouTube Video 13](https://youtu.be/rWI5sEpNNkw) 
 
 **Chapters**
 - 0:00 NumPy Random
@@ -191,5 +191,9 @@ This video explores random number generation in NumPy (random). We develop a Pyt
 - 6:27 Visualisation
 - 6:54 Betting Function
 - 7:39 IndexError
+
+# U14: An Introduction to Pandas: DataFrame, Series & Arrays
+This video introduces Pandas, which we will use quite extensively in this course. We learn how to import data from csv files and how to work with Pandas DataFrames. We select Pandas series, convert them into NumPy arrays and select our data based on conditions. Finally, we use a scatter plot to visualise the relationship between two variables.
+## [YouTube Video 13 available from 27/06/2022 at 10am GMT](https://youtu.be/e76_EreNXQo) 
 
 
