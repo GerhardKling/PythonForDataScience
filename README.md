@@ -194,6 +194,6 @@ This video explores random number generation in NumPy (random). We develop a Pyt
 
 # U14: An Introduction to Pandas: DataFrame, Series & Arrays
 This video introduces Pandas, which we will use quite extensively in this course. We learn how to import data from csv files and how to work with Pandas DataFrames. We select Pandas series, convert them into NumPy arrays and select our data based on conditions. Finally, we use a scatter plot to visualise the relationship between two variables.
-## [YouTube Video 14 available from 27/06/2022 at 10am GMT](https://youtu.be/e76_EreNXQo) 
+## [YouTube Video 14](https://youtu.be/e76_EreNXQo) 
 
 
